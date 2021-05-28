@@ -31,7 +31,7 @@
 
 简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......
  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=400 height=80 src="//music.163.com/outchain/player?type=2&id=1501901429&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=400 height=80 src="//music.163.com/outchain/player?type=2&id=1501901429&auto=0&height=66"></iframe>
 
 
 
@@ -54,11 +54,13 @@ https://kxy0618.top/LoveTree/
 <iframe height=498 width=510 src="https://apd-88e72c87709d728b909ddb94e17efd9e.v.smtcdns.com/mv.music.tc.qq.com/AeONLFigAY2DEK8PFJgOQNcEj64mWShEDvuexO3VFtvY/F1DF1EE3AB17336421AB0EC3E9BFB9136BFBAA02D0DC89C59D8E9F8422D3587B3870BA0D4B1A3CAE1415509C7EFC9749ZZqqmusic_default/1049_M0106302002Wb8lg3wvKUv1001861870.f9844.mp4?fname=1049_M0106302002Wb8lg3wvKUv1001861870.f9844.mp4">
 <iframe height=498 width=510 src="https://apd-88e72c87709d728b909ddb94e17efd9e.v.smtcdns.com/mv.music.tc.qq.com/AeONLFigAY2DEK8PFJgOQNcEj64mWShEDvuexO3VFtvY/F1DF1EE3AB17336421AB0EC3E9BFB9136BFBAA02D0DC89C59D8E9F8422D3587B3870BA0D4B1A3CAE1415509C7EFC9749ZZqqmusic_default/1049_M0106302002Wb8lg3wvKUv1001861870.f9844.mp4?fname=1049_M0106302002Wb8lg3wvKUv1001861870.f9844.mp4" frameborder=0 allowfullscreen></iframe>
 
+   
+   
+   
 
 
 
 ## -------------------------------------------------------------------------
-
 
 # 诗集   
 
