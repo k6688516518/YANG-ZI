@@ -14,7 +14,6 @@
 
 > 昨夜星辰昨夜风，画楼西畔桂堂东。——《无题》李商隐
 
-![image](https://user-images.githubusercontent.com/59243825/120888604-c40cd200-c62b-11eb-9a6e-ce9e2f4a60ab.png)
 
 > 东风夜放花千树,更吹落、星如雨。——《青玉案·元夕》辛弃疾
 
