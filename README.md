@@ -84,6 +84,8 @@ This is a idle web page.
 
 <a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
+
+## 目录     
 [学生时代](#1)      
 [午夜](#1.1)  
 [长歌沉顿](#1.2)  
@@ -93,11 +95,6 @@ This is a idle web page.
 [有时](#1.6)  
 [酒穿笔肠](#1.7)  
 [今日，重阳](#1.8) 
-
-
-
-## 目录
-
 
 
 <h1 id='1'>学生时代</h1>                  
@@ -434,6 +431,4 @@ This is a idle web page.
 </body>
 </html>
 
-<link rel="Shortcut Icon" href="
-
-" type="image/x-icon" />
+<link rel="icon" href="/mm.ico" type="image/x-icon">
