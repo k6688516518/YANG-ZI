@@ -29,8 +29,9 @@
 
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0OLp5_Pn5Onj5emQoaH_s7_9" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 
+<font face="仿宋"=6 color=#FF0000 >~~简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......~~</font>
 
-~~简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......~~
+
 
 ---
  
