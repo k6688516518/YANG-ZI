@@ -46,18 +46,16 @@
 ---
  
 ### 链接：
-
-https://kxy0618.top/birthday/         
-
-<head>If today is your birthday</head>
+        
+If today is your birthday, click on the link below. 
 
 <a  href="http://kxy0618.top/birthday/"  title="点击进入">click here!</a>
 
-https://kxy0618.top/LoveTree/                
+If you are familiar the "inverse function", click on the link below.                
 
 <a  href="https://kxy0618.top/LoveTree/"  title="点击进入">click here!</a>  
 
-This is a idle web page
+This is a idle web page.
 
 <a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
