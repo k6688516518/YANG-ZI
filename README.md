@@ -6,6 +6,7 @@
 
 > 道可道，非常道；名可名，非常名。
 
+'''
 
 ><html>
  <head>
@@ -18,8 +19,9 @@
         setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
     </script>
  </div>
-></body>
-
+ </body>
+ 
+'''
    
 ### 登高   ————*[唐] 杜甫*
 >风急天高猿啸哀，渚清沙白鸟飞回。  
@@ -32,7 +34,7 @@
 {{ site.time | date_to_rfc822 }}
 
 
-### 联系方式：
+ ### 联系方式：
 
 　　QQ: 2973749359
 
