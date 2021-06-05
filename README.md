@@ -410,15 +410,6 @@ https://kxy0618.top/LoveTree/
             
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>系统时间</title>
-</head>
-<body>
-<div id="datetime">
-    <script>
-        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
-    </script>
-</div>
  <script>setInterval("timenow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
 </script>
 </body>            
