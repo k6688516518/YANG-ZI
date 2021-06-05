@@ -5,7 +5,7 @@
 
 <建站时间：2019-06-18>
 
-[吹风](https://c-ssl.duitang.com/uploads/item/202003/28/20200328185659_jhfxp.jpeg)
+[吹风](https://c-ssl.duitang.com/uploads/item/202003/28/20200328185659_jhfxp.thumb.1000_0.jpeg)
 
 > 道可道，非常道；名可名，非常名。
             
