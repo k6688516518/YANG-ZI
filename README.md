@@ -9,6 +9,124 @@
 
 > 道可道，非常道；名可名，非常名。
             
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="document.css">
+    <style>
+        html{
+            perspective: 1000px;
+            height: 100%;
+        }
+        .div1{
+           /* transition: 2s;
+            transition-timing-function: linear;*/
+            position: absolute;
+            width: 350px;
+            height: 350px;
+            margin:auto;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            transform-style: preserve-3d;
+            transition: 6s;
+            animation-name: run;
+            animation-duration: 6s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+            animation-play-state:running;
+        }
+       /* .div1:hover{
+            animation-play-state: running;
+        }*/
+        li{
+            position: absolute;
+            opacity: 0.9;
+        }
+        img{
+            width: 350px;
+            height: 350px;
+            vertical-align: bottom;
+        }
+        .li1{
+            transform: rotateY(-90deg) translateZ(175px);
+        }
+        .li2{
+            transform: rotateY(90deg) translateZ(175px);
+        }
+        .li3{
+            transform: rotatex(90deg) translateZ(175px);
+        }
+        .li4{
+            transform: rotatex(-90deg) translateZ(175px);
+        }
+        .li5{
+            transform: translateZ(175px);
+        }
+        .li6{
+            transform: translateZ(-175px);
+        }
+        @keyframes run {
+            from{
+                
+            }
+            to{
+                transform: rotateY(360deg) rotate(360deg);
+            }
+        }
+        .div2{
+            width: 300px;
+            margin: 0px auto;
+            text-align: center;
+        }
+    </style>
+    <script>
+        //var up = 0,left = 0,right = 0,down = 0;
+        window.onload = function(){
+            document.getElementById("btn1").onclick = function(){
+                up+=10;
+                document.getElementById("div1").style.transform = "rotateX("+up+"deg) rotateY("+(-left)+"deg)";
+            }
+            document.getElementById("btn2").onclick = function(){
+                left+=10;
+                document.getElementById("div1").style.transform = "rotateX("+up+"deg) rotateY("+(-left)+"deg)";
+            }
+            document.getElementById("btn3").onclick = function(){
+                left-=10;
+                document.getElementById("div1").style.transform = "rotateX("+up+"deg) rotateY("+(-left)+"deg)";
+            }
+            document.getElementById("btn4").onclick = function(){
+                up-=10;
+                document.getElementById("div1").style.transform = "rotateX("+(up)+"deg) rotateY("+(-left)+"deg)";
+            }
+
+        }
+    </script>
+</head>
+<body>
+    <div class="div1" id="div1">
+        <ul>
+            <li class="li1"><img src="图片"></li>
+            <li class="li2"><img src="图片"></li>
+            <li class="li3"><img src="图片"></li>
+            <li class="li4"><img src="图片"></li>
+            <li class="li5"><img src="图片"></li>
+            <li class="li6"><img src="图片"></li>
+        </ul>
+        
+    </div>
+    <div class="div2">
+        <button id="btn1">up</button>
+        <button id="btn2">left</button>
+        <button id="btn3">right</button>
+        <button id="btn4">down</button>
+    </div>
+</body>
+</html>
 
                
              
