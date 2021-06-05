@@ -55,7 +55,11 @@ https://kxy0618.top/birthday/
 
 https://kxy0618.top/LoveTree/                
 
-<a  href="https://kxy0618.top/LoveTree/"  title="点击进入">click here!</a>   
+<a  href="https://kxy0618.top/LoveTree/"  title="点击进入">click here!</a>  
+
+This is a idle web page
+
+<a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
 
 ## 目录
