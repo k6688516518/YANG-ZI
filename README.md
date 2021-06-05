@@ -2,6 +2,8 @@
 当前时间:
 <div id="timenow"></div>
 
+[a relative link](me.md)
+
 <建站时间：2019-06-18>
 
 ![image](https://user-images.githubusercontent.com/59243825/120888313-3381c200-c62a-11eb-9e45-b2ff01143f33.png)
