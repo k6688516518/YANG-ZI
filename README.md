@@ -6,21 +6,7 @@
 
 > 道可道，非常道；名可名，非常名。
             
-                   
-``
-<html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>系统时间</title>
-</head>
-<body>
-<div id="datetime">
-    <script>
-        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
-    </script>
-</div>
-</body>
-``
+
                
              
 ### 登高   ————*[唐] 杜甫*
@@ -390,4 +376,18 @@ https://kxy0618.top/LoveTree/
 <script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 <meting-js server="netease" type="playlist" id="2621523410" fixed="true"></meting-js>
+            
+            
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>系统时间</title>
+</head>
+<body>
+<div id="datetime">
+    <script>
+        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
+    </script>
+</div>
+</body>            
 
