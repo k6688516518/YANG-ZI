@@ -86,6 +86,8 @@ This is a idle web page.
 <a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
 
+<span id = "anchor">锚点</span>
+
 ## 目录
 
 <link rel="stylesheet" href="http://yandex.st/highlightjs/6.2/styles/googlecode.min.css">
@@ -117,8 +119,9 @@ This is a idle web page.
            
            ————2021.02.15|凌晨
 
-### 1.午夜 
+<span id = "1">午夜</span>
 
+### 午夜
 午夜
 
 不必嘲讽
