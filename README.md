@@ -6,8 +6,8 @@
 
 > 道可道，非常道；名可名，非常名。
    
-   
-<table>   
+
+```
    ><html>
    ><head>
    >    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -20,7 +20,7 @@
    >    </script>
    ></div>
    ></body>
-</table>         
+```       
    
 
    
@@ -43,7 +43,7 @@ E-mail：K2973749359@outlook.com   <a  href="mailto: K2973749359@outlook.com">�
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0OLp5_Pn5Onj5emQoaH_s7_9" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 
 
-``简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......``
+~~简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......~~
 
 ---
  
