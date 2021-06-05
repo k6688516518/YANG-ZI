@@ -62,6 +62,25 @@ toc:
 
 
 
+
+
+- [1.诗集](#1--)
+  * [2.我们 {ignore=true}](#2----ignore-true-)
+    + [1.午夜](#1--)
+    + [2.长歌沉顿](#2----)
+  * [3.邮票一枚](#3----)
+    + [4.无题](#4--)
+    + [5.无题](#5--)
+    + [6.有时](#6--)
+    + [7.酒穿笔肠](#7----)
+    + [8.《今夜，重阳》 ——黔山凤雏](#8--------------)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+
+
+
+
 # 1.诗集
 ## 2.我们 {ignore=true}
                              
