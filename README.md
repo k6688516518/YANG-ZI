@@ -421,8 +421,7 @@ This is a idle web page.
 <meting-js server="netease" type="playlist" id="2621523410" fixed="true"></meting-js>
             
             
-        
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <body>
@@ -431,4 +430,4 @@ This is a idle web page.
 </body>
 </html>
 
-<link rel="icon" href="/mm.ico" type="image/x-icon">
+<link rel="icon" href="https://kxy0618.top/YANG-ZI/mm.ico" type="image/x-icon">
