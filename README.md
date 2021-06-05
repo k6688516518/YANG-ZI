@@ -1,6 +1,6 @@
 # Welcome to Kang Xinyang-Website!                
 
-当前时间: 
+当前时间:
 <div id="timenow"></div>
 
 <建站时间：2019-06-18>
@@ -34,11 +34,20 @@
 
 ~~简介：一个热爱计算机技术的男孩纸, 自学C、Java、python......学无止境......~~
 
+<div id="datetime">
+    <script>
+        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
+    </script>
+</div>
+
+————————————————
+版权声明：本文为CSDN博主「散场前的温柔」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_35394434/article/details/83747008
 
 
 ---
  
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=350 height=85 src="//music.163.com/outchain/player?type=2&id=1451720450&auto=1&height=65"></iframe> 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1451720450&auto=1&height=66"></iframe> 
  
 ---
  
