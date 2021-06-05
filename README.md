@@ -45,7 +45,7 @@
 
 |             |          |           |
 
-[about me](aboutme.md)
+[about me](blog/aboutme.md)
 
 <div id="datetime">
     <script>
