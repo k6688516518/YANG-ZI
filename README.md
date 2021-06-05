@@ -114,8 +114,7 @@ This is a idle web page.
 <div id="category"></div>
 
 
-<h2 id='1'>学生时代</h>
-## 1.学生时代                   
+<h id='1'>学生时代</h>                  
            
            ————2021.02.15|凌晨
 
