@@ -19,11 +19,13 @@
 
 ---
 
- ### 联系方式：
+### 联系方式：
 
-QQ: 2973749359
-WeChat: k6688516518                
-E-mail：K2973749359@outlook.com   <a  href="mailto: K2973749359@outlook.com">发送邮件</a>     
+  QQ: 2973749359
+  
+  WeChat: k6688516518                
+  
+  E-mail：K2973749359@outlook.com   <a  href="mailto: K2973749359@outlook.com">发送邮件</a>     
 
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=0OLp5_Pn5Onj5emQoaH_s7_9" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 
@@ -70,57 +72,6 @@ https://kxy0618.top/LoveTree/
 </script>
 <div id="category"></div>
 
-
-
-/*
- * Copyright (c)  2018. houbinbin Inc.
- * markdown-toc All rights reserved.
- */
-
-package com.github.houbb.markdown.toc.core.impl;
-
-import com.github.houbb.markdown.toc.util.TestPathUtil;
-import com.github.houbb.markdown.toc.vo.TocGen;
-
-import org.junit.Test;
-
-import java.util.List;
-
-/**
- * AtxMarkdownToc 文件夹测试
- *
- * @author author
- * @version 1.0
- * @since 2018-01-30 15:11:47.256
- */
-public class AtxMarkdownTocDirTest {
-
-    /**
-     * 不包含子元素-测试
-     */
-    @Test
-    public void notSubTreeTest() {
-        String path = TestPathUtil.getAppRootPath("sub");
-        List<TocGen> tocGens = AtxMarkdownToc.newInstance()
-                .subTree(false)
-                .genTocDir(path);
-
-        System.out.println(tocGens.size());
-    }
-
-    /**
-     * 普通-测试
-     * 1. 默认进行文件的递归遍历
-     */
-    @Test
-    public void commonTest() {
-        String path = TestPathUtil.getAppRootPath("sub");
-        List<TocGen> tocGens = AtxMarkdownToc.newInstance()
-                .genTocDir(path);
-        System.out.println(tocGens.size());
-    }
-
-}
 
 
 ## 诗集
