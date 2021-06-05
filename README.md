@@ -114,14 +114,13 @@ This is a idle web page.
 <div id="category"></div>
 
 
-<span id = "0"></span>
-## 1.学生时代                     
+<h2 id='1'>学生时代</h>
+## 1.学生时代                   
            
            ————2021.02.15|凌晨
 
 
-<span id = "1"></span>
-### 1.午夜
+<h1 id='1.1'>午夜</h1>
 午夜
 
 不必嘲讽
@@ -156,7 +155,7 @@ This is a idle web page.
 
             ————2021.02.03|凌晨
 
-<h2 id='1.1'>1.1 对焦</h2>
+
 ### 2.长歌沉顿
 
 阴日里
