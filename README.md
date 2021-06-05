@@ -1,4 +1,4 @@
-# Welcome to Kang Xinyang-Website!
+# Welcome to Kang Xinyang-Website!                
 
 <link rel="shortcut icon" href="https://github.com/k6688516518/k6688516518.github.io/blob/main/2ac726e27c0c44a.jpg" type="image">
 
@@ -6,6 +6,7 @@
 
 > 道可道，非常道；名可名，非常名。
 
+<input type="date" id="date" name="date" value="" />
 
 ### 登高   ————*[唐] 杜甫*
 >风急天高猿啸哀，渚清沙白鸟飞回。  
