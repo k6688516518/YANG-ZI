@@ -1,5 +1,4 @@
 # Welcome to Kang Xinyang-Website!                
-
 当前时间:
 <div id="timenow"></div>
 
@@ -435,3 +434,6 @@ This is a idle web page.
 </body>
 </html>
 
+<link rel="Shortcut Icon" href="
+
+" type="image/x-icon" />
