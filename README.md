@@ -1,6 +1,6 @@
 # Welcome to Kang Xinyang-Website!                
 
-<div id="timenow"></div>
+当前时间:<div id="timenow"></div>
 
 <建站时间：2019-06-18>
 
