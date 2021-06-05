@@ -6,22 +6,21 @@
 
 > 道可道，非常道；名可名，非常名。
 
-'''
 
 ><html>
- <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>系统时间</title>
- </head>
- <body>
- <div id="datetime">
-    <script>
-        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
-    </script>
- </div>
- </body>
+><head>
+>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+>    <title>系统时间</title>
+></head>
+><body>
+><div id="datetime">
+>    <script>
+>        setInterval("document.getElementById('datetime').innerHTML=new Date().toLocaleString();", 1000);
+>    </script>
+></div>
+></body>
  
-'''
+
    
 ### 登高   ————*[唐] 杜甫*
 >风急天高猿啸哀，渚清沙白鸟飞回。  
