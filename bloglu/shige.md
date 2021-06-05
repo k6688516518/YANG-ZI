@@ -1,4 +1,4 @@
-[返回主页面](YANG-ZI)
+[返回主页面](https://kxy0618.top/YANG-ZI/)
 
 # 目录
 
