@@ -85,8 +85,8 @@ This is a idle web page.
 
 <a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
-
-[午夜](#1)
+[1学生时代]（#0）
+[1.1午夜](#1)
 
 ## 目录
 
@@ -114,7 +114,7 @@ This is a idle web page.
 <div id="category"></div>
 
 
-
+<span id = "0"></span>
 ## 1.学生时代                     
            
            ————2021.02.15|凌晨
