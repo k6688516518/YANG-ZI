@@ -19,10 +19,10 @@
 
 <a href="{{ site.url }}/feed.xml">RSS订阅</a> 
 
-|      博客链接                        |      日志链接                               |          网站链接                             |
-| :------:                            |    :----:                                   |  :----------:                                |
-|  [about me](blog/aboutme.md)        | [highschool years](blog/shige.md)           | [Two dimensions door](https://pixivic.com/)  |
-| [Starry poem](blog/xingkong.md)     | [Poetry excerpt](bloglu/shige.md)           | And more                                     |
+|      博客链接                        |      日志链接                          |          网站链接                             |
+| :------:                            |    :----:                             |  :----------:                                |
+|  [about me](blog/aboutme.md)        | [highschool years](blog/shige.md)     | [Two dimensions door](https://pixivic.com/)  |
+| [Starry poem](blog/xingkong.md)     | [Poetry excerpt](bloglu/shige.md)     | And more                                     |
 
 
 ---
