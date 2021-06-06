@@ -45,7 +45,6 @@ This is a idle web page.
 
 ---
 
-
 ---
 layout: default
 title: Blog
