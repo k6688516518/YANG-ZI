@@ -23,13 +23,9 @@
 
 |             |          |           |
 
-[关于我~~](blog/aboutme.md)
-
-[星空诗集](blog/xingkong.md)
-
-[中学时代](blog/shige.md)
-
-[诗歌录~~](bloglu/shige.md)
+---
+[关于我~~](blog/aboutme.md)　　　　[星空诗集](blog/xingkong.md)　　　　[中学时代](blog/shige.md)　　　　[诗歌录~~](bloglu/shige.md)
+---
 
 <div id="datetime">
     <script>
@@ -68,8 +64,7 @@ This is a idle web page.
 [悠殇叹](#1.4)    
 [初春江河](#1.5)  
 [有时](#1.6)  
-[酒穿笔肠](#1.7)  
-[今日，重阳](#1.8) 
+[酒穿笔肠](#1.7)
 
 
 <h1 id='1'>学生时代</h1>                  
