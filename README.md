@@ -15,7 +15,8 @@
 
 
 ---
-[关于我~~](blog/aboutme.md)　　|    [星空诗集](blog/xingkong.md)　　|　　[中学时代](blog/shige.md)　　|　　[诗歌录~~](bloglu/shige.md)
+|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
+| [关于我~~](blog/aboutme.md)  |  [星空诗集](blog/xingkong.md) |　　[中学时代](blog/shige.md)  |[诗歌录~~](bloglu/shige.md)    |     
 ---
 
 <div id="datetime">
