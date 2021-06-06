@@ -1,15 +1,15 @@
 # Welcome to Kang Xinyang-Website!                       
 > <div id="timenow"></div>        
 
-![image](https://user-images.githubusercontent.com/59243825/120888313-3381c200-c62a-11eb-9e45-b2ff01143f33.png)
+![image](https://user-images.githubusercontent.com/59243825/120888313-3381c200-c62a-11eb-9e45-b2ff01143f33.png =1000×570)
 
 >醉后不知天在水,满船清梦压星河。——《题龙阳县青草湖》唐珙
 
-![image](https://user-images.githubusercontent.com/59243825/120889958-6c259980-c632-11eb-92ee-42495afe3622.png)
+![image](https://user-images.githubusercontent.com/59243825/120889958-6c259980-c632-11eb-92ee-42495afe3622.png =1000×450)
 
 >明月皎皎照我床，星汉西流夜未央。——《燕歌行二首·其一》曹丕
 
-![image](https://user-images.githubusercontent.com/59243825/120913278-85792500-c6c8-11eb-8832-3e1f2e761648.png)
+![image](https://user-images.githubusercontent.com/59243825/120913278-85792500-c6c8-11eb-8832-3e1f2e761648.png =1000×665 )
 
 >似此星辰非昨夜，为谁风露立中宵。——《绮怀》黄景仁
 
