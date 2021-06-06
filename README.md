@@ -18,7 +18,7 @@
 
 
 
-| [about me](blogaboutme.md)          | [Starry poem](blog/xingkong.md) | [Poetry excerpt](bloglushige.md)       |
+| [about me](blog/aboutme.md)         | [Starry poem](blog/xingkong.md) | [Poetry excerpt](bloglu/shige.md)      |
 | :------:                            |    :----:                       |  :----------:                          |
 | [highschool years](blog/shige.md)   | Title                           | Here's this                            |
 | Paragraph                           | Text                            | And more                               |
