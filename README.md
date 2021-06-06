@@ -9,6 +9,7 @@
 
 >明月皎皎照我床，星汉西流夜未央。——《燕歌行二首·其一》曹丕
 
+![Uploading image.png…]()
 
 
 >似此星辰非昨夜，为谁风露立中宵。——《绮怀》黄景仁
@@ -42,7 +43,7 @@ This is a idle web page.
 
 <a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
 
-
+---
           
 
 <html lang="en">
