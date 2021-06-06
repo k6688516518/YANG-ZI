@@ -348,8 +348,7 @@ This is a idle web page.
 <body>
  <script>setInterval("timenow.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());",1000);
 </script>
-<link rel="shortcut icon" href="https://kxy0618.top/YANG-ZI/mm.ico" />
+<link rel="icon" href="https://kxy0618.top/YANG-ZI/mm.ico" type="image/x-icon">
 </body>
 
 
-<link rel="icon" href="https://kxy0618.top/YANG-ZI/mm.ico" type="image/x-icon">
