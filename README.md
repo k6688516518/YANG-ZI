@@ -14,17 +14,14 @@
 >似此星辰非昨夜，为谁风露立中宵。——《绮怀》黄景仁
 
 
----
-
-|:----------------------------:|:----------------------------:|:----------------------------:|:----------------------------:|
-| [关于我](blog/aboutme.md)     |  [星空诗集](blog/xingkong.md)|　　[中学时代](blog/shige.md)   |[诗歌录](bloglu/shige.md)     |     
 
 
 
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
+
+| [about me](blogaboutme.md)          | [Starry poem](blog/xingkong.md) | [Poetry excerpt](bloglushige.md)       |
+| :------:                            |    :----:                       |  :----------:                          |
+| [highschool years](blog/shige.md)   | Title                           | Here's this                            |
+| Paragraph                           | Text                            | And more                               |
 
 
 ---
