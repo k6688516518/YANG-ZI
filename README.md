@@ -18,13 +18,9 @@
 
 >似此星辰非昨夜，为谁风露立中宵。——《绮怀》黄景仁
 
----
-
-
-|             |          |           |
 
 ---
-[关于我~~](blog/aboutme.md)　　　　[星空诗集](blog/xingkong.md)　　　　[中学时代](blog/shige.md)　　　　[诗歌录~~](bloglu/shige.md)
+[关于我~~](blog/aboutme.md)　　|    [星空诗集](blog/xingkong.md)　　|　　[中学时代](blog/shige.md)　　|　　[诗歌录~~](bloglu/shige.md)
 ---
 
 <div id="datetime">
