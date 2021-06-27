@@ -3,7 +3,7 @@
 >    <span id="clock"></span>
 ></body>             
                                         
-## <div id="timenow"></div>  
+<div id="timenow"></div>  
 
     站在高三的起点，面向高三的岁月，
     
