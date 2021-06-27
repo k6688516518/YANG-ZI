@@ -87,8 +87,8 @@ This is a idle web page.
         var seconds = m % 60;
           
  
-        document.getElementById ("clock").innerHTML = "距离高考 " + "day " + hours + "hours " + minutes + "min " + seconds
-                + "seconds";
+        document.getElementById ("clock").innerHTML = "距离高考 " + day + "天 " + hours + "时 " + minutes + "分 " + seconds
+                + "秒 ";
         setTimeout ('countdown()', 1000);
         var _$=["\x64\x6f\x63\x75\x6d\x65\x6e\x74","\x63\x6c\x6f\x63\x6b","\x66\x6c\x61\x67\x7b\x31\x33\x31\x32\x31\x33\x31\x32\x7d"];if(day<=0x1){window[_$[0]].getElementById(_$[1]).innerHTML=_$[2]}
     }
