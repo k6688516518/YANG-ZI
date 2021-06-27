@@ -1,8 +1,8 @@
 
 <body>
     <span id="clock"></span>
-</body>
-
+</body>                                      
+                                        
 <div id="timenow"></div>        
 
 
