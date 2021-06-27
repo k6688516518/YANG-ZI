@@ -1,7 +1,7 @@
 # 距离2022年高考
-<body>
-    <span id="clock"></span>
-</body>             
+><body>
+>    <span id="clock"></span>
+></body>             
                                         
 <div id="timenow"></div>        
 
