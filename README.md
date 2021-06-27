@@ -3,8 +3,6 @@
     <span id="clock"></span>
 </body>
 
-
-
 <div id="timenow"></div>        
 
 
