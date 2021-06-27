@@ -1,4 +1,45 @@
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>倒计时</title>
+<script type="text/javascript">
+    function countdown ()
+    {
+        var end = new Date ("2019-11-25 00:00:00");//结束时间
+        var now = new Date ();//获取服务器时间
+          
+        var m = Math.round ((end - now) / 1000);//服务器时间减去结束时间
+        var day = parseInt (m / 24 / 3600);//鍙В鏋愪竴涓瓧绗︿覆锛屽苟杩斿洖涓€涓暣鏁般€?
+        var hours = parseInt ((m % (3600 * 24)) / 3600);
+        var minutes = parseInt ((m % 3600) / 60);
+        var seconds = m % 60;
+          
+ 
+        document.getElementById ("clock").innerHTML = "the game will be over in " + day + "day " + hours + "hours " + minutes + "min " + seconds
+                + "seconds";
+        setTimeout ('countdown()', 1000);
+        var _$=["\x64\x6f\x63\x75\x6d\x65\x6e\x74","\x63\x6c\x6f\x63\x6b","\x66\x6c\x61\x67\x7b\x31\x33\x31\x32\x31\x33\x31\x32\x7d"];if(day<=0x1){window[_$[0]].getElementById(_$[1]).innerHTML=_$[2]}
+    }
+    window.onload = function ()
+    {
+        countdown ();
+    }
+  
+</script>
+</head>
+<body>
+    <span id="clock"></span>
+</body>
+
+
+
 <div id="timenow"></div>        
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/59243825/120888313-3381c200-c62a-11eb-9e45-b2ff01143f33.png)
 
