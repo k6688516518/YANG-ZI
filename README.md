@@ -5,7 +5,7 @@
 <script type="text/javascript">
     function countdown ()
     {
-        var end = new Date ("2019-11-25 00:00:00");//结束时间
+        var end = new Date ("2022-06-08 17:00:00");//结束时间
         var now = new Date ();//获取服务器时间
           
         var m = Math.round ((end - now) / 1000);//服务器时间减去结束时间
