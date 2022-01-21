@@ -75,7 +75,7 @@
         
 If today is your birthday, click on the link below. 
 
-<a  href="http://kxy0618.top/birthday/"  title="点击进入">click here!</a>
+<a  href="https://k6688516518.github.io/birthday/"  title="点击进入">click here!</a>
 
 If you are familiar the inverse function（k=xy）, click on the link below.                
 
