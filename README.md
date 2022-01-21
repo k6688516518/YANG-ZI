@@ -79,11 +79,11 @@ If today is your birthday, click on the link below.
 
 If you are familiar the inverse function（k=xy）, click on the link below.                
 
-<a  href="https://kxy0618.top/LoveTree/"  title="点击进入">click here!</a>  
+<a  href="https://"  title="点击进入">click here!</a>  
 
 This is a idle web page.
 
-<a  href="https://kxy0618.top/YANG-ZI/a.html"  title="点击进入">click here!</a>
+<a  href="https://kxy0618.top/a.html"  title="点击进入">click here!</a>
 
 ---
 
