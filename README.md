@@ -1,37 +1,10 @@
-# 距离2022年高考
-><body>
->    <span id="clock"></span>
-></body>             
-                                        
+# 一举成功
+            
+#合上笔盖的一刻，必有战士收刀入翘班的骄傲！  
+  
 <div id="timenow"></div>  
 
-    奔跑在高三的岁月，面向高三的征程，
-    
-    我们以青春之名致春秋一诺：
-    
-    我们曾用智慧培育理想，我们曾用汗水浇灌希望，
-    
-    我们曾踏过书山坎坷，我们曾度过学海茫茫，
-    
-    我们没有失败的理由，我们走过的每一步都是成功的保障。
-    
-    我发誓：不负父母的期盼；不负恩师的厚望，
-    
-    我承诺：不做懦弱的退缩，不做无意的彷徨。
-    
-    奋斗三百天，让飞翔的梦在六月张开翅膀，
-    
-    奋斗三百天，让雄心与智慧在六月闪光。
-    
-    我们将带着顽强的微笑，去赢得志在必得的辉煌。
-    
-    有志者、事竟成，破釜沉舟，百二秦关终属楚;
-    
-    苦心人、天不负，卧薪尝胆，三千越甲可吞吴。
-    
-    2022，我们注定成功。
-    
-    2022，我们注定辉煌。
+
 
 
 
@@ -99,33 +72,3 @@ This is a idle web page.
 </body>
 
     
-<html>
-<head>
-<meta charset="UTF-8" />
-<title>倒计时</title>
-<script type="text/javascript">
-    function countdown ()
-    {
-        var end = new Date ("2022-06-08 17:00:00");//结束时间
-        var now = new Date ();//获取服务器时间
-          
-        var m = Math.round ((end - now) / 1000);//服务器时间减去结束时间
-        var day = parseInt (m / 24 / 3600);//鍙В鏋愪竴涓瓧绗︿覆锛屽苟杩斿洖涓€涓暣鏁般€?
-        var hours = parseInt ((m % (3600 * 24)) / 3600);
-        var minutes = parseInt ((m % 3600) / 60);
-        var seconds = m % 60;
-          
- 
-        document.getElementById ("clock").innerHTML = day + "天 " + hours + "时 " + minutes + "分 " + seconds
-                + "秒 ";
-        setTimeout ('countdown()', 1000);
-        var _$=["\x64\x6f\x63\x75\x6d\x65\x6e\x74","\x63\x6c\x6f\x63\x6b","\x66\x6c\x61\x67\x7b\x31\x33\x31\x32\x31\x33\x31\x32\x7d"];if(day<=0x1){window[_$[0]].getElementById(_$[1]).innerHTML=_$[2]}
-    }
-    window.onload = function ()
-    {
-        countdown ();
-    }
-  
-</script>
-</head>
-
