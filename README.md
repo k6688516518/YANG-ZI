@@ -9,7 +9,6 @@
 
 ``明月皎皎照我床，星汉西流夜未央。
                 ——《燕歌行二首·其一》曹丕``
-![hd-wallpaper-3605547](https://user-images.githubusercontent.com/59243825/185189983-39bd1dd0-d307-4a04-bcb5-2656ecdea118.jpg)
 
 ![image](https://user-images.githubusercontent.com/59243825/120913278-85792500-c6c8-11eb-8832-3e1f2e761648.png)
 
@@ -22,7 +21,7 @@
 
 |      博客链接                        |      日志链接                          |          网站链接                             |
 | :------:                             |    :----:                             |  :----------:                                 |
-|  [关 于 我](blog/aboutme.md)         | [高中时代](blog/shige.md)              | [次元传送门](https://pixivic.com/)            |
+|  [笔者简介](blog/aboutme.md)         | [高中时代](blog/shige.md)              | [次元传送门](https://pixivic.com/)            |
 |  [星空诗集](blog/xingkong.md)        | [诗歌集录](bloglu/shige.md)            | And more                                      |
 
 
