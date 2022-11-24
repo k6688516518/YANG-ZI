@@ -3,7 +3,7 @@
 
 ### 简介：
 
-```一个热爱计算机技术，用诗绘录生活的蓝孩子, 自学C、python中......学无止境......```
+```一个热爱计算机技术，用诗描绘生活的蓝孩纸, 自学C、python中......学无止境......```
 
 <img src="https://user-images.githubusercontent.com/59243825/123512226-dcb35980-d6b8-11eb-9f27-591ba2d8fdc4.jpg" width="60%"  height="60%" >
 
