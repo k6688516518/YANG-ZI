@@ -24,7 +24,7 @@
 |      博客链接                        |      日志链接                          |          网站链接                             |
 | :------:                             |    :----:                             |  :----------:                                 |
 |  [笔者简介](blog/aboutme.md)         | [高中时代](blog/shige.md)              | [次元传送门](https://pixivic.com/)            |
-|  [星空诗集](blog/xingkong.md)        | [诗歌集录](bloglu/shige.md)            | [地图故事](bloglu/gushi.md)                                      |
+|  [星空诗集](blog/xingkong.md)        | [诗歌集录](bloglu/shige.md)            | [更多]                                        |
 
 
 ---
