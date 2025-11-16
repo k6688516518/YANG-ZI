@@ -1,6 +1,4 @@
-# Welcome to Kang Xinyang-Website!                
-当前时间:           > <div id="timenow"></div>        
-
+     
 ![image](https://user-images.githubusercontent.com/59243825/120888313-3381c200-c62a-11eb-9e45-b2ff01143f33.png)
 
 >醉后不知天在水,满船清梦压星河。——《题龙阳县青草湖》唐珙
@@ -324,11 +322,6 @@ This is a idle web page.
     });
 </script>                             
                 
-
-
-
-
-
 
 
 
